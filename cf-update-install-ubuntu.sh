@@ -18,7 +18,7 @@ DEF_AUTH_KEY="API-KEY"
 DEF_DOMAIN="test.com"
 DEF_HOSTNAME="hostname"
 
-echo "=== Cloudflare Update Script Installer ==="
+echo "=== Cloudflare DNS Update Script Installer ==="
 echo
 echo "Please enter values — press Enter to use the default."
 echo
