@@ -1,4 +1,4 @@
-# CF-UPDATE VERSION 2.0 
+# Cloudflare DNS Update Script Installer v2.0 
 
 ## Install on Ubuntu 24.04 
 
